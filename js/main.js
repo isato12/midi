@@ -17,29 +17,29 @@ function asignarAudio(rutaAudio) {
 }
 
 pomButtom.addEventListener("click", ()=>{
-    asignarAudio("../sounds/keyq.wav")
+    asignarAudio("sounds/keyq.wav")
 });
 clapButtom.addEventListener("click", ()=>{
-    asignarAudio("../sounds/keyw.wav")
+    asignarAudio("sounds/keyw.wav")
 });
 timButtom.addEventListener("click", ()=>{
-    asignarAudio("../sounds/keye.wav")
+    asignarAudio("sounds/keye.wav")
 });
 puffButtom.addEventListener("click", ()=>{
-    asignarAudio("https://github.com/isato12/midi/commit/5a6f8b5df4813f4b52998f867998f95a33568a9e#diff-3bf1648acdde32f962a6f1232376742707e8eac8f448cbeda8673cf04301ce48")
+    asignarAudio("sounds/keya.wav")
 });
 splashButtom.addEventListener("click", ()=>{
-    asignarAudio("../sounds/keys.wav")
+    asignarAudio("sounds/keys.wav")
 });
 toimButtom.addEventListener("click", ()=>{
-    asignarAudio("../sounds/keyd.wav")
+    asignarAudio("sounds/keyd.wav")
 });
 pshButtom.addEventListener("click", ()=>{
-    asignarAudio("../sounds/keyz.wav")
+    asignarAudio("sounds/keyz.wav")
 });
 ticButtom.addEventListener("click", ()=>{
-    asignarAudio("../sounds/keyx.wav")
+    asignarAudio("sounds/keyx.wav")
 });
 tomButtom.addEventListener("click", ()=>{
-    asignarAudio("../sounds/keyc.wav")
+    asignarAudio("sounds/keyc.wav")
 });
